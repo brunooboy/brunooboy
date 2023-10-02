@@ -1,8 +1,7 @@
 <img src="https://i.pinimg.com/564x/6b/88/9e/6b889edd814d17af1a372e114242510f.jpg" min-width="400px" max-width="400px" width="400px" align="right">
 
 <p align="left"> 
-  Faça uma breve aprensentação sua com o seu nome e não esqueça a <strong>Sua área</strong>.<br>
-  Diga o que você está fazendo no momento, se trabalha ou estuda.
+  Oi, sou Bruno, progamo desde os 11 anos só para me divertir, até começar a ganhar com isso...
 </p>
 
 <p align="left">
