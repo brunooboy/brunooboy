@@ -1,4 +1,4 @@
-<img src="https://api.oboy.fun/api/v1/user/303699181900660737/avatar" min-width="400px" max-width="400px" width="400px" align="right" border-radius="50%">
+<img src="https://i.pinimg.com/564x/99/c6/78/99c67882768297167f015ae7b5023c8b.jpg" min-width="400px" max-width="400px" width="400px" align="right">
 
 <p align="left"> 
   Faça uma breve aprensentação sua com o seu nome e não esqueça a <strong>Sua área</strong>.<br>
