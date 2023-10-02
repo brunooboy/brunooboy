@@ -6,11 +6,11 @@
 </p>
 
 <p align="left">
-  🔧 Linguagens: **HTML, CSS, JS, Python, Java, Dart**
+  🔧 Linguagens: <strong>HTML, CSS, JS, Python, Java, Dart</strong>
 </p>
 
 <p align="left">
-  💼 Especialidade: **Node.js**
+  💼 Especialidade: <strong>Node.js</strong>
 </p>
 
 <p align="left">
