@@ -14,8 +14,8 @@
 
 <p align="left">
   <a href="https://oboy.fun/" alt="Discord">
-  <img src="https://cdn-icons-png.flaticon.com/512/4945/4945973.png" max-width="50px" width="50px" /></a>
+  <img src="https://cdn-icons-png.flaticon.com/512/4945/4945973.png" max-width="30px" width="30px" /></a>
 
   <a href="https://steamcommunity.com/id/brunooboy/" alt="Steam">
-  <img src="https://cdn-icons-png.flaticon.com/512/3/3782.png" max-width="50px" width="50px"  /></a>
+  <img src="https://cdn-icons-png.flaticon.com/512/3/3782.png" max-width="30px" width="30px"  /></a>
 </p>
