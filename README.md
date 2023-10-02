@@ -14,9 +14,9 @@
 </p>
 
 <p align="left">
-  <a href="#" alt="Discord">
-  <img src="https://oboy.fun/" /></a>
+  <a href="https://oboy.fun/" alt="Discord">
+  <img src="https://cdn-icons-png.flaticon.com/512/4945/4945973.png"/></a>
 
-  <a href="#" alt="Steam">
-  <img src="https://steamcommunity.com/id/brunooboy/" /></a>
+  <a href="https://steamcommunity.com/id/brunooboy/" alt="Steam">
+  <img src="https://cdn-icons-png.flaticon.com/512/3/3782.png" /></a>
 </p>
