@@ -5,11 +5,11 @@
 </p>
 
 <p align="left">
-  🔧 Linguagens: <strong>HTML, CSS, JS, Python, Java, Dart</strong>
+  🔧 Linguagens: <strong>JavaScript, Python, Golang</strong>
 </p>
 
 <p align="left">
-  💼 Especialidade: <strong>Node.js</strong>
+  💼 Especialidade: <strong>Node.js, Next.js, Golang</strong>
 </p>
 
 <p align="left">
@@ -17,5 +17,5 @@
   <img src="https://cdn-icons-png.flaticon.com/512/4945/4945973.png" max-width="30px" width="30px" /></a>
 
   <a href="https://steamcommunity.com/id/brunooboy/" alt="Steam">
-  <img src="https://cdn-icons-png.flaticon.com/512/3/3782.png" max-width="30px" width="30px"  /></a>
+  <img src="https://i.pinimg.com/736x/12/db/d2/12dbd2c8a18bce782b42921f39127727.jpg" max-width="30px" width="30px"  /></a>
 </p>
