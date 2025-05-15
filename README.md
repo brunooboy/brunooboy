@@ -22,7 +22,7 @@ Hoje, domino:
 - ☕ **Java**
 - 🌙 **Lua** (a linguagem que me iniciou)
 
-Sou apaixonado por performance, automações, bots e soluções backend robustas.
+Tenho verdadeira afinidade com performance, automações, bots e soluções backend robustas.
 
 ---
 
