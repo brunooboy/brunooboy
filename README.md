@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=brunooboy&fontSize=32&fontAlign=center&fontColor=ffffff" alt="decorative header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=000001&height=200&section=header&text=brunooboy&fontSize=32&fontAlign=center&fontColor=ffffff" alt="decorative header"/>
 </p>
 
 <h1 align="center">👋 Olá, eu sou o Bruno</h1>
@@ -66,5 +66,5 @@ Sou apaixonado por performance, automações, bots e soluções backend robustas
 </details>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=000001&height=100&section=footer"/>
 </p>
