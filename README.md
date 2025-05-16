@@ -61,7 +61,7 @@ Tenho verdadeira afinidade com performance, automações, bots e soluções back
 <details>
   <summary>🌀 Curiosidade</summary>
   <p>
-    Comecei com Lua criando scripts e mods, e de lá fui explorando tudo que a programação podia oferecer. Hoje, crio desde bots até servidores em Go.
+    Comecei com Lua criando scripts e mods, e de lá fui explorando tudo que a programação podia oferecer. Hoje, crio desde apps até servidores em Go.
   </p>
 </details>
 
