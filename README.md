@@ -12,16 +12,6 @@
 ### 🧠 Sobre mim
 
 Comecei minha jornada aos **11 anos**, programando em **Lua**. Desde então, nunca mais parei.
-
-Hoje, domino:
-
-- ⚡ **JavaScript** (principal stack)
-- 🐹 **Go / Golang** (desempenho & APIs)
-- 🐍 **Python**
-- 🔵 **TypeScript**
-- ☕ **Java**
-- 🌙 **Lua** (a linguagem que me iniciou)
-
 Tenho verdadeira afinidade com performance, automações, bots e soluções backend robustas.
 
 ---
