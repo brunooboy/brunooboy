@@ -2,21 +2,21 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=000001&height=200&section=header&text=brunooboy&fontSize=32&fontAlign=center&fontColor=ffffff" alt="decorative header"/>
 </p>
 
-<h1 align="center">👋 Olá, eu sou o Bruno</h1>
+<h1 align="center">Olá, eu sou o Bruno</h1>
 <p align="center">
-  🧑‍💻 Especialista em <strong>JavaScript</strong> e <strong>Go</strong><br/>
+    Especialista em <strong>JavaScript</strong> e <strong>Go</strong><br/>
 </p>
 
 ---
 
-### 🧠 Sobre mim
+### Sobre mim
 
 Comecei minha jornada aos **11 anos**, programando em **Lua**. Desde então, nunca mais parei.
 Tenho verdadeira afinidade com performance, automações, bots e soluções backend robustas.
 
 ---
 
-### 🚀 Tecnologias que uso
+### Tecnologias que uso
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" alt="JavaScript"/>
@@ -31,7 +31,7 @@ Tenho verdadeira afinidade com performance, automações, bots e soluções back
 
 ---
 
-### 📈 GitHub Stats
+### GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=brunooboy&show_icons=true&theme=tokyonight&count_private=true" />
