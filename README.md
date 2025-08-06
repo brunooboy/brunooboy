@@ -1,13 +1,11 @@
-<h1 align="center">Hello, I'm Bruno</h1>
-<p align="center">
-  Specialist in <strong>JavaScript</strong> and <strong>Go</strong><br/>
-</p>
+# Hello, I'm Bruno
+Specialist in **JavaScript** and **Go**
 
 ---
 
 ### About me
 
-I started my journey at **11 years old**, programming in **Lua**. Since then, I have never stopped.
+With **7 years** of experience, I started my journey programming in **Lua**. Since then, I have never stopped.
 I have a true affinity for performance, automations, bots, and robust backend solutions.
 
 ---
@@ -30,9 +28,9 @@ I have a true affinity for performance, automations, bots, and robust backend so
 ### GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=brunooboy&show_icons=true&theme=tokyonight&count_private=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=brunooboy&show_icons=true&theme=dark&count_private=true" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunooboy&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunooboy&layout=compact&theme=dark" />
 </p>
 
 ---
