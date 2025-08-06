@@ -1,32 +1,28 @@
+<h1 align="center">Hello, I'm Bruno</h1>
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=000001&height=200&section=header&text=brunooboy&fontSize=32&fontAlign=center&fontColor=ffffff" alt="decorative header"/>
-</p>
-
-<h1 align="center">Olá, eu sou o Bruno</h1>
-<p align="center">
-    Especialista em <strong>JavaScript</strong> e <strong>Go</strong><br/>
+  Specialist in <strong>JavaScript</strong> and <strong>Go</strong><br/>
 </p>
 
 ---
 
-### Sobre mim
+### About me
 
-Comecei minha jornada aos **11 anos**, programando em **Lua**. Desde então, nunca mais parei.
-Tenho verdadeira afinidade com performance, automações, bots e soluções backend robustas.
+I started my journey at **11 years old**, programming in **Lua**. Since then, I have never stopped.
+I have a true affinity for performance, automations, bots, and robust backend solutions.
 
 ---
 
-### Tecnologias que uso
+### Technologies I use
 
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" alt="JavaScript"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="50" alt="Go"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="50" alt="TypeScript"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50" alt="Python"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="50" alt="Java"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" height="50" alt="Lua"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="50" alt="VS Code"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="50" alt="Linux"/>
+  <img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/Go-000000?style=for-the-badge&logo=go&logoColor=white" alt="Go"/>
+  <img src="https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
+  <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=java&logoColor=white" alt="Java"/>
+  <img src="https://img.shields.io/badge/Lua-000000?style=for-the-badge&logo=lua&logoColor=white" alt="Lua"/>
+  <img src="https://img.shields.io/badge/VS%20Code-000000?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code"/>
+  <img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white" alt="Linux"/>
 </p>
 
 ---
@@ -41,20 +37,22 @@ Tenho verdadeira afinidade com performance, automações, bots e soluções back
 
 ---
 
-### 📫 Fale comigo
+### Contact me
 
-- Email: `brunooboy.dev@gmail.com`
-- Discord: `byio`
+<p align="center">
+  <a href="mailto:brunooboy.dev@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
+  </a>
+  <a href="https://discord.com/users/303699181900660737">
+    <img src="https://img.shields.io/badge/byio-000000?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Badge"/>
+  </a>
+</p>
 
 ---
 
 <details>
-  <summary>🌀 Curiosidade</summary>
+  <summary>Curiosity</summary>
   <p>
-    Comecei com Lua criando scripts e mods, e de lá fui explorando tudo que a programação podia oferecer. Hoje, crio desde apps até servidores em Go.
+    I started with Lua creating scripts and mods, and from there I explored everything that programming had to offer. Today, I create everything from apps to servers in Go.
   </p>
 </details>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=000001&height=100&section=footer"/>
-</p>
