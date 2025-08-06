@@ -1,4 +1,4 @@
-# Hello, I'm Bruno
+# Bruno
 Specialist in **JavaScript** and **Go**
 
 ---
@@ -27,9 +27,8 @@ I have a true affinity for performance, automations, bots, and robust backend so
 
 ### GitHub Stats
 
-<p align="center">
+<p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=brunooboy&show_icons=true&theme=dark&count_private=true" />
-  <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunooboy&layout=compact&theme=dark" />
 </p>
 
@@ -37,7 +36,7 @@ I have a true affinity for performance, automations, bots, and robust backend so
 
 ### Contact me
 
-<p align="center">
+<p align="left">
   <a href="mailto:brunooboy.dev@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
   </a>
