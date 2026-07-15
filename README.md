@@ -28,17 +28,6 @@ I have a true affinity for performance, automations, bots, and robust backend so
   <img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white" alt="Linux"/>
 </p>
 
----
-
-### GitHub Stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=brunooboy&show_icons=true&theme=dark&count_private=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunooboy&layout=compact&theme=dark" />
-</p>
-
----
-
 ### Contact me
 
 <p align="left">
